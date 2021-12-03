@@ -1,0 +1,158 @@
+
+
+  p{
+     align-content: center;
+         
+    font-size: x-large;
+     font-weight:300;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+     float: left;
+     margin-left: 3rem;
+     }
+     .HOME{
+        margin-left: 300px;
+        background-color: rgb(117, 223, 126);
+        padding: 40px 40px 40px 40px;
+        color:white;
+        } 
+     #TOP{
+      margin-top:4rem;
+
+     }
+     .clear{
+        clear: both;
+         margin-top: 2rem;
+         
+           
+          }
+          .space{
+             font-family: calibri;
+             font-size: xx-large;
+             font-weight:bolder;
+             color: rgb(121, 120, 120);
+
+          }
+       span{
+          color: greenyellow;
+       }
+
+       .construction{
+         background-image: url('construction_1.jpg');
+         background-repeat:no-repeat ;
+         height: 100vh;
+         width: 100vw;
+         background-position:25px;
+         
+       }
+
+       #firstpic{
+          background-color: grey;
+          width: 30.666666%;
+          align-self: center;
+          float: left;
+              }
+        
+        .h3{
+         font-family: sans-serif;
+         font-size:x-large;
+         font-weight: 300;  
+         text-align: center;
+         background-color: greenyellow;
+         padding: 1rem;
+         color: white;
+         margin-bottom: 0vh;
+         margin-top: 0vh;
+           }
+           .gap {
+              float: left;
+              width: 2%;
+              
+              
+           }
+
+       
+       .inner{
+          padding: 0rem;
+          margin-top: 0vh;
+          
+       }
+       #firstpara{
+         font-family: sans-serif;
+         font-weight: 300;
+       }
+       .plus{
+          
+          width: 5%;
+          background-color: yellowgreen;
+          padding: 2vh;
+          margin-top: 0vh;
+          margin-bottom: 0vh;
+              }
+      
+
+       .gap2{
+         float: left;
+         width: 2%;
+   
+            }
+            .quality{
+               font-weight: 300;
+                margin-top: 10vh;
+                text-transform: uppercase;
+                text-align: left;
+               
+            }
+            #paragraph{
+               width: 30.666666%;
+               font-family: sans-serif;
+               font-size:x-large;
+               font-weight: 300;  
+               text-align: left;
+               float: left;
+            }
+
+            .priority{
+               color: greenyellow;
+               text-align: left;
+               margin-left: 0vh;
+            }
+            .button{
+               
+               padding:2vh;
+               margin-left: 0vh;
+               text-align: left;
+               font-size: medium;
+               color: white;
+               background-color: rgb(109, 107, 107);
+            }
+            #align{
+               text-align: left;
+               margin-left: 0vh;
+             }
+             #empty{
+                width: 4%;
+                float: left;
+             }
+             .footer{
+                width: 44%;
+                background-color:grey;
+                float: left;
+                
+               
+                
+             }
+             .footer1{
+               float: left;
+                background-color: rgb(146, 231, 17);
+                color: white;
+                padding: 5vh;
+                margin-right: 4vh;
+
+                
+             }
+             #color{
+                
+                color: greenyellow;
+                margin-top: 4vh;
+                
+             }

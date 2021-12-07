@@ -1,31 +1,133 @@
+@media screen and (max-width:600px){
+   body{
+      width: 100%;
 
+   }
+   .div1 .header li{
+      margin-left: 0%;
+      padding-right:0px;
+      padding-left: 0%;
+      
+      font-size:small;
+      text-align:left;
+   
+   }
+   #paragraph #align{
+      font-size:small;
 
-  p{
-     align-content: center;
-         
+   }
+   #paragraph .bullet{
+      font-size: medium;
+      padding-left: 0;
+   }
+   #paragraph .quality1{
+      font-size: x-large;
+   }
+   #paragraph .priority{
+          font-size: small;
+          margin-top: 0;
+   }
+   #paragraph .button {
+      font-size: xx-small;
+
+   }
+   .header{
+      font-size: x-small;
+      padding-left: 0%;
+   }
+   
+}
+
+   *{
+   box-sizing: border-box;
+   }
+
+   p{
+     align-content: center;    
     font-size: x-large;
      font-weight:300;
      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
      float: left;
      margin-left: 3rem;
      }
-     .HOME{
-        margin-left: 300px;
-        background-color: rgb(117, 223, 126);
-        padding: 40px 40px 40px 40px;
-        color:white;
-        } 
-     #TOP{
-      margin-top:4rem;
+
+     @media screen and (max-width:600px) {
+        #firstpic .h3{
+           font-size: small;
+
+        }
+        #firstpic #firstpara{
+           font-size: x-small;
+        }
+        
+        .gap{
+           width:2%;
+        }
+        #paragraph
+        {
+         width: 30.666666%;
+           margin: auto;
+        }
+        #firstpic  .inner{
+                
+         height:100px; width:98px;
+         
+
+      }
+      .h3{
+        width: 100%;
+      }
+      .footer {
+         font-size: small;
+      }
 
      }
+
+      @media screen and (max-width:600px){
+          
+
+      }
+                     
+                        
+      
+     .header li{
+      display: inline;
+      padding: 25px;
+      text-align:center;
+      
+     }
+
+       
+         
+         
+     .div1 li:first-child{
+        background-color: yellowgreen;
+
+     }
+     
+   
      .clear{
         clear: both;
          margin-top: 2rem;
          
            
           }
+
+          @media screen and (max-width:500px)
+          {
+
+            .space h1{
+               font-size:xx-large;
+               width: 100%;
+               font-family: calibri;
+               font-weight:bolder;
+               color: rgb(121, 120, 120);
+            }
+            
+          }
+
           .space{
+             width: 100%;
              font-family: calibri;
              font-size: xx-large;
              font-weight:bolder;
@@ -34,15 +136,6 @@
           }
        span{
           color: greenyellow;
-       }
-
-       .construction{
-         background-image: url('construction_1.jpg');
-         background-repeat:no-repeat ;
-         height: 100vh;
-         width: 100vw;
-         background-position:25px;
-         
        }
 
        #firstpic{
@@ -70,12 +163,12 @@
               
            }
 
-       
+      /* 
        .inner{
           padding: 0rem;
           margin-top: 0vh;
           
-       }
+       }*/
        #firstpara{
          font-family: sans-serif;
          font-weight: 300;
@@ -95,7 +188,7 @@
          width: 2%;
    
             }
-            .quality{
+            .quality1 .quality2 .quality3{
                font-weight: 300;
                 margin-top: 10vh;
                 text-transform: uppercase;

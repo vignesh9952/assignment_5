@@ -71,7 +71,11 @@
      }
    
 }
-
+@media screen and (min-width:600px){
+#firstpic .inner{
+   width: 100%;
+}
+}
    *{
    box-sizing: border-box;
    }

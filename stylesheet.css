@@ -75,6 +75,7 @@
 #firstpic .inner{
    width: 100%;
 }
+
 }
    *{
    box-sizing: border-box;
@@ -205,10 +206,26 @@
                float: left;
                 background-color: rgb(146, 231, 17);
                 color: white;
-                padding: 5vh;
-                margin-right: 4vh;
+                padding-right: 18px;
+                padding-top: 28px;
+                padding-bottom: 28px;
+                padding-left: 18px;
+                margin: 0% 2% 0% 0%;
+                
                    }
+                   .footer2{
+                     float: left;
+                      background-color: rgb(146, 231, 17);
+                      color: white;
+                      padding-right: 26px;
+                      padding-top: 28px;
+                      padding-bottom: 28px;
+                      padding-left: 26px;
+                      margin: 0% 2% 0% 0%;
+                         }
+       
              #color{
                 color: greenyellow;
-                margin-top: 4vh;                
+                margin-top: 1%;
+                margin-bottom: 1.5%;                
              }
